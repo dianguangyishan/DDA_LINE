@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1452316230 source:f:\personalplace\hjk\main.cpp
+	<windows.h>
+	<GL/glut.h>
+
+1452316230 source:f:\personalplace\dda_line\main.cpp
+	<windows.h>
+	<GL/glut.h>
+
